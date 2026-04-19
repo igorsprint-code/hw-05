@@ -7,7 +7,7 @@
 
 ### Решение
 
-![screen]()
+![screen](https://github.com/igorsprint-code/hw-05/blob/main/Zadanie%201.jpg)
 
 ---
 
@@ -20,7 +20,8 @@
 
 ### Решение
 
-![screen]()
+![screen](https://github.com/igorsprint-code/hw-05/blob/main/Zadanie%202.jpg)
+![screen](https://github.com/igorsprint-code/hw-05/blob/main/Zadanie%202_2.jpg)
 ---
 
 ### Задание 3
@@ -32,11 +33,12 @@
 
 ### Решение
 
-![screen]()
+![screen](https://github.com/igorsprint-code/hw-05/blob/main/Zadanie%203_1.jpg)
+![screen](https://github.com/igorsprint-code/hw-05/blob/main/Zadanie%203_2.jpg)
 ---
 
 ### Задание 4* (со звездочкой)
 ### Решение
 
-![screen]()
+![screen](https://github.com/igorsprint-code/hw-05/blob/main/Zadanie%204.jpg)
 Создайте свой дашборд Grafana с различными метриками Docker и сервера, на котором он стоит.
